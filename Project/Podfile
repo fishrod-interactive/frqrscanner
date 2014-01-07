@@ -1,0 +1,7 @@
+pod "FRQRScanner", :path => "../FRQRScanner.podspec"
+
+target "Demo" do
+end
+
+target "DemoTests" do
+end
